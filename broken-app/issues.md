@@ -1,2 +1,0 @@
-# Broken App Issues
-In order to fix the broken app issues I rewrote the post function to make the application functional. Variable declaration `const` needed to be placed in there as a correction. Just a few tweaks here and there to make the application function properly.
